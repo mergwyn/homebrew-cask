@@ -1,5 +1,5 @@
 cask 'unison248' do
-  version '2.48.4'
+  version '2.48.15'
   sha256 'd578196d8b38f35c1e0410a1c86ff4e115a91f7eb211201db7a940a3a3e0f099'
 
   # github.com/bcpierce00/unison was verified as official when first introduced to the cask
