@@ -10,7 +10,6 @@ cask 'unison248' do
   homepage 'https://www.cis.upenn.edu/~bcpierce/unison/'
 
   conflicts_with formula: 'unison'
-  conflicts_with cask: 'unison'
 
   app 'Unison.app'
   binary "#{appdir}/Unison.app/Contents/MacOS/cltool", target: 'unison'
