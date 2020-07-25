@@ -1,4 +1,4 @@
-cask 'unison252' do
+cask 'unison2512' do
   version '2.51.2'
   sha256 '0738a6978fa29bb2af409322069cc20df293b770877942ac4b8774f06e774aa5'
 
